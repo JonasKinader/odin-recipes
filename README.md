@@ -6,3 +6,5 @@ Erstellung einer Indexseite mit Verlinkung zu den Rezeptseiten.
 
 Erstelle drei Rezeptseiten mit Bild, Beschreibung, Zutaten und Anleitungen.
 
+### Link zum anschauen:
+  https://jonaskinader.github.io/odin-recipes/
