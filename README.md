@@ -1,6 +1,6 @@
-The Odin Project: Project 1 Odin Recipes
+# The Odin Project: Project 1 Odin Recipes
 
-Gefordert: 
+## Gefordert: 
 
 Erstellung einer Indexseite mit Verlinkung zu den Rezeptseiten.
 
